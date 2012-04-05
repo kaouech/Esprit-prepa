@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 apzpzppzp
 kjwsnfd<snd
 oiswjd
+=======
+class Zoubeir{
+
+
+public String kalsoun="string";
+
+
+}
+>>>>>>> aa/master
