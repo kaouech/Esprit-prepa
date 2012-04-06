@@ -1,2 +1,7 @@
 class Zoubeir{
+
+
+public String kalsoun="string";
+
+
 }
